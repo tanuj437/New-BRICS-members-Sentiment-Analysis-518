@@ -1,4 +1,5 @@
 **Images Folder**
+
 The images folder contains various visualizations generated during the exploratory data analysis (EDA) and model evaluation phases. These visualizations provide valuable insights into the dataset and the performance of the sentiment analysis models. Below is a detailed description of the contents:
 
 **1. Model Outputs**
@@ -6,15 +7,19 @@ Model Accuracy Graphs:
 These graphs show the accuracy of different models over epochs during training. They help in understanding how well each model is learning and improving over time.
 Loss Graphs:
 These graphs depict the training and validation loss over epochs, providing insights into the model's convergence and potential overfitting.
+
 **2. Confusion Matrix**
 Confusion Matrix:
 The confusion matrix visualizes the performance of the classification models by showing the actual vs. predicted labels. It helps in identifying the number of true positives, true negatives, false positives, and false negatives, providing a detailed view of the model's accuracy.
+
 **3. Word Cloud**
 Word Cloud:
 The word cloud is a visual representation of the most frequent words in the dataset. It highlights the key terms used in the comments, giving a quick overview of the prominent themes and topics discussed.
+
 **4. Like Count Graph**
 Like Count Distribution:
 This graph shows the distribution of like counts across comments. It helps in understanding the engagement level of the comments and identifying any skewness in the data.
+
 **5. Label Distribution**
 Label Distribution:
 This graph illustrates the distribution of sentiment labels in the dataset. It provides insights into the balance of the dataset and whether there are any imbalances that need to be addressed during model training.
