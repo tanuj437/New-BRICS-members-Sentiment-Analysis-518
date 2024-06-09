@@ -15,7 +15,9 @@ The comments have been labeled based on the number of likes they received, offer
 This dataset contains the following columns:
 
 textDisplay: The actual text of the comment.
+
 likeCount: The number of likes the comment received.
+
 label: The sentiment label, derived from the like count.
 
 **Sample Comments:**
