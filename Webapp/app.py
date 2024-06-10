@@ -6,7 +6,7 @@ from transformers import BertTokenizer, BertModel
 import torch
 from sklearn.decomposition import PCA
 
-model_path = '/Model/lgb_model.pkl'
+model_path = 'C:/Users/Tanvi Saxena/OneDrive/Desktop/BRICS Sentiment Analysis/Model/lgb_model.pkl'
 with open(model_path, 'rb') as file:
     lgb_model = pickle.load(file)
 # Load the BERT tokenizer and model for encoding
