@@ -82,4 +82,4 @@ BRICS Sentiment Analysis
 Feel free to reach out if you encounter any issues or need further assistance with running the notebook.
 
 ## Connect with Me
-Tanuj Saxena [LinkedIn(https://www.linkedin.com/in/tanuj-saxena-970271252/)]
+Tanuj Saxena [LinkedIn](https://www.linkedin.com/in/tanuj-saxena-970271252/)
